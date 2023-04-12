@@ -16,7 +16,7 @@ int main() {
 }
 
 void fillstr(char str[], int size) {
-    for (int i = 0; i < size; i++) str[i] = '\0';чё
+    for (int i = 0; i < size; i++) str[i] = '\0';
 }
 
 void searchelements(char str[], int size) {
