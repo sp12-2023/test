@@ -1,3 +1,4 @@
+// абоба
 #include <iostream>
 #include <string>
 #include <cstring>
